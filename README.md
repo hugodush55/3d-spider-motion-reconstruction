@@ -164,7 +164,8 @@ The **video corpus** and the **full decision record** are not published here.
 numbers, not the catalogue of what failed.
 
 Contact welcome, particularly on animal locomotion capture, markerless tracking
-under occlusion, or legged-robot controllers trained from biological data.
+under occlusion, or legged-robot controllers trained from biological data —
+reach me on **[LinkedIn](https://www.linkedin.com/in/hugo-lequy-8b5542310)**.
 Citation details in `CITATION.cff`.
 
 **Code** (`src/`) — **MIT**, see `LICENSE`. Use it freely; keep the notice.
