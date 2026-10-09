@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this method or these results, please cite this repository."
+title: "Markerless footfall measurement from monocular video by static-scene reconstruction"
+abstract: >-
+  A pipeline that measures the ground contacts of a freely walking arthropod
+  from a single handheld camera. Rather than reconstructing the deforming
+  animal, it reconstructs the static scene with the animal masked out, which
+  yields camera pose and a ground plane; a planted foot is then determined in
+  closed form as the intersection of its optical ray with that plane.
+type: software
+authors:
+  - given-names: Hugo
+    family-names: Lequy
+    alias: hugodush55
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add if you have one
+keywords:
+  - computer vision
+  - structure from motion
+  - animal locomotion
+  - markerless tracking
+  - biomechanics
+license: MIT
+repository-code: "https://github.com/hugodush55/3d-spider-motion-reconstruction"
+date-released: 2026-10-08
+version: "0.1.0"
